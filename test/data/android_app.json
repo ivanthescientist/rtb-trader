@@ -1,0 +1,115 @@
+{
+   "id":"1",
+   "cur":[
+      "USD"
+   ],
+   "imp":[  
+      {  
+         "video":{  
+            "ext":{  
+               "bcont":[  
+                  1,
+                  8,
+                  15
+               ],
+               "matching_ad_id":[  
+                  {  
+                     "ad_width":480,
+                     "ad_height":320,
+                     "creative_id":538296321,
+                     "placement_id":123719133,
+                     "campaign_id":537123013
+                  }
+               ]
+            },
+            "h":320,
+            "w":480,
+            "api":[2],
+            "delivery":[  
+               2
+            ],
+            "playbackmethod":[  
+               2,
+               1,
+               3
+            ],
+            "battr":[  
+               1,
+               2,
+               6,
+               7
+            ],
+            "linearity":1,
+            "startdelay":0,
+            "protocols":[  
+               1,
+               4,
+               2,
+               5,
+               3,
+               6
+            ],
+            "maxduration":30,
+            "minduration":0,
+            "mimes":[  
+               "application/javascript",
+               "video/3gpp",
+               "video/mp4"
+            ]
+         },
+         "id":"1",
+         "secure":0
+      }
+   ],
+   "device":{  
+      "language":"en",
+      "osv":"4",
+      "os":"Android",
+	  "dpidsha1": "0847d08e79e82ea24f8fedbf7e149e909d07df95",
+	  "dnt": 0,
+	     "ext": {
+	        "idforad": "123ab2ff-c458-4355-b17a-1b84b93d9ab1",
+	        "browser_version": "33",
+	        "idforad_enabled": 1,
+		    "browser": "Chrome"
+	     },
+      "model":"android phone",
+      "make":"generic",
+	  "lmt": 0,
+	  "connectiontype": 2,					
+      "ip":"1.1.1.1",
+	  "devicetype": 4,
+	  "ifa": "123ab2ff-c458-4355-b17a-1b84b93d9ab1",
+	  "dpidmd5": "406a2e6fcf0c5d5fd43e5d00c7df6a3d",
+      "geo":{  
+         "ext":{  
+            "dma":501,
+            "state":"new york",
+            "continent":"north america"
+         },
+         "zip":"10036",
+         "city":"new york",
+         "region":"NY",
+         "country":"USA",
+         "type":2,
+         "lon":-73.99,
+         "lat":40.759
+      },
+      "ua":"Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.65 Mobile Safari/537.36"
+   },
+   "app":{  
+      "content":{  
+         "userrating":"4.2"
+      },
+      "publisher":{  
+         "id":"123456789"
+      },
+      "cat":[  
+         "IAB22-1"
+      ],
+      "bundle":"com.yourapp.bundle",
+      "name":"YourApp",
+      "domain":"yourapp.com",				
+      "id":"123456789"
+   }
+}

@@ -1,0 +1,69 @@
+{
+    "id": "4",
+    "cur": ["USD"],
+    "device": {
+        "dnt": 0,
+        "ext": {
+            "language": ["en"],
+            "browser_version": "56",
+            "browser": "Chrome"
+        },
+        "language": "en",
+        "osv": "10",
+        "os": "Windows",
+        "model": "browser",
+        "make": "desktop",
+        "devicetype": 2,
+        "ip": "1.1.1.4",
+        "geo": {
+            "ext": {
+                "dma": 650,
+                "state": "oklahoma",
+                "continent": "north america"
+            },
+            "zip": "73102",
+            "city": "oklahoma city",
+            "region": "OK",
+            "country": "USA",
+            "type": 2,
+            "lon": -97.519,
+            "lat": 35.472
+        },
+        "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+    },
+    "imp": [{
+        "video": {
+            "ext": {
+                "bcont": [1, 8, 15],
+                "matching_ad_id": [{
+                    "ad_       width": 640,
+                    "ad_height": 480,
+                    "creative_id": 123234118,
+                    "placement_id": 537687321,
+                    "campaign_id": 537123508
+                }]
+            },
+            "h": 480,
+            "w": 640,
+            "api": [2],
+            "delivery": [2],
+            "playbackmethod": [3, 2],
+            "battr": [1, 2, 6, 7],
+            "linearity": 1,
+            "startdelay": 0,
+            "protocols": [2, 5],
+            "maxduration": 30,
+            "minduration": 0,
+            "mimes": ["video/mp4"]
+        },
+        "id": "1",
+        "secure": 0
+    }],
+    "site": {
+        "publisher": {
+            "id": "1"
+        },
+        "page": "http://www.yoursite.com/1/1",
+        "id": "1000"
+    }
+}
